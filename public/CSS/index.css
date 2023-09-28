@@ -1,0 +1,16 @@
+body{
+    background-color: salmon;
+}
+
+input{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    width: 20rem;
+    height: 1rem;
+}
+.kotak{
+    padding: 2rem;
+    border: 1px solid black;
+}
